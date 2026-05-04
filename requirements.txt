@@ -1,0 +1,7 @@
+# PyreWall — Dependencies
+# Core (always needed)
+scapy==2.6.1
+flask==3.1.1
+
+# Testing
+pytest==8.3.5
