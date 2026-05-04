@@ -179,10 +179,11 @@ Tests cover: rule matching (IP, port, protocol, direction), first-match-wins ord
 ---
 
 ## 👤 Author
-
-**[Your Name]**
-- 🔗 LinkedIn: [Your LinkedIn]
-- 💻 GitHub: [Your GitHub]
+ 
+**Danish John GS**
+- 🔗 LinkedIn: [linkedin.com/in/danish-john-343a17354](https://www.linkedin.com/in/danish-john-343a17354)
+- 💻 GitHub: [github.com/danishjohngs](https://github.com/danishjohngs)
+- 📧 Email: danish.sec.dev@gmail.com
 
 ---
 
