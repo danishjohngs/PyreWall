@@ -71,7 +71,7 @@ tr:hover td { background: rgba(249,115,22,0.05); }
 </head>
 <body>
 <div class="header">
-    <h1>🔥 PyreWall Dashboard</h1>
+    <h1>PyreWall Dashboard</h1>
     <div class="status">
         <span id="policyBadge" class="badge badge-green">POLICY: ALLOW</span>
         <span id="liveBadge" class="badge badge-red">LIVE: OFF</span>
